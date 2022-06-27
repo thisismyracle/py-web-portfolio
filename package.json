@@ -1,0 +1,15 @@
+{
+  "name": "py-web-portfolio",
+  "version": "1.0.0",
+  "description": "Web portfolio using Py Streamlit.",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myracle",
+    "portfolio"
+  ],
+  "author": "Myracle",
+  "license": "MIT"
+}
